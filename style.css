@@ -1,0 +1,75 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #ebebeb;
+}
+
+.nav-item {
+  padding-right: 10px;
+}
+
+.hero-text {
+  color: #133852;
+}
+
+#Vimis {
+  background-color: #133852;
+  color: white;
+}
+
+#contact {
+  background-color: #133852;
+  color: white;
+  height: 400px;
+}
+
+.kontak {
+  padding-top: 150px;
+}
+
+.btn {
+  background-color: white;
+  padding: 20px 40px;
+  border-radius: 70px;
+  transition-duration: 0.4s;
+}
+
+.btn:hover {
+  background-color: #133852;
+  color: white;
+  border: 1px white solid;
+}
+
+footer {
+  height: 300px;
+  padding-top: 50px;
+}
+
+.footer {
+  margin-right: 200px;
+  margin-bottom: 30px;
+}
+
+.navigasi a {
+  text-decoration: none;
+  color: #133852;
+}
+
+i.fas {
+  margin-bottom: 5px;
+  display: flex;
+}
+
+.fas p {
+  margin-left: 5px;
+  font-weight: 50;
+}
+
+i.fab {
+  margin-right: 27px;
+  font-size: 30px;
+  color: #133852;
+}
+
+footer h5 {
+  padding-bottom: 20px;
+}
